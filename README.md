@@ -1,2 +1,15 @@
 <h1>MageAnts<a href="https://www.mageants.com/magento-2-extensions.html">Magento-2-extensions</a></h1>
 <li> <a href="https://www.mageants.com/shipping-per-product-extension-for-magento-2.html">Magento 2 Shipping Per Product</a></li>
+<li> <a href="https://www.mageants.com/gift-card-extension-for-magento-2.html">Magento 2 Gift Card</a></li>
+<li> <a href="https://www.mageants.com/rma-extension-for-magento-2.html">Magento 2 RMA</a></li>
+<li> <a href="https://www.mageants.com/product-labels-for-magento-2.html">Magento 2 Product Labels</a></li>
+<li> <a href="https://www.mageants.com/faq-extension-for-magento-2.html">Magento 2 FAQ</a></li>
+<li> <a href="https://www.mageants.com/store-pickup-extension-for-magento-2.html">Magento 2 Store Pickup</a></li>
+<li> <a href="https://www.mageants.com/store-locator-extension-for-magento-2.html">Magento 2 Store Locator</a></li>
+<li> <a href="https://www.mageants.com/automatic-related-products-extension-for-magento-2.html">Magento 2 Automatic Related Products</a></li>
+<li> <a href="https://www.mageants.com/product-attachments-extension-for-magento-2.html">Magento 2 Product Attachments</a></li>
+<li> <a href="https://www.mageants.com/quick-view-extension-for-magento-2.html">Magento 2 Quick View</a></li>
+<li> <a href="https://www.mageants.com/social-login-extension-for-magento-2.html">Magento 2 Social Login</a></li>
+<li> <a href="https://www.mageants.com/follow-up-email-for-magento-2.html">Magento 2 Follow Up Email</a></li>
+<li> <a href="https://www.mageants.com/google-analytics-for-magento-2.html">Magento 2 Google Analytics Extension</a></li>
+<li> <a href="https://www.mageants.com/size-chart-extension-for-magento-2.html">Magento 2 Size Chart</a></li>
