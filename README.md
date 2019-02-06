@@ -13,3 +13,10 @@
 <li> <a href="https://www.mageants.com/follow-up-email-for-magento-2.html">Magento 2 Follow Up Email</a></li>
 <li> <a href="https://www.mageants.com/google-analytics-for-magento-2.html">Magento 2 Google Analytics Extension</a></li>
 <li> <a href="https://www.mageants.com/size-chart-extension-for-magento-2.html">Magento 2 Size Chart</a></li>
+<li> <a href="https://www.mageants.com/product-parts-finder-extension-for-magento-2.html">Magento 2 Product Parts Finder</a></li>
+<li> <a href="https://www.mageants.com/login-as-customer-for-magento-2.html">Magento 2 Login as Customer</a></li>
+<li> <a href="https://www.mageants.com/instagram-integration-for-magento-2.html">Magento 2 Instagram Integration</a></li>
+<li> <a href="https://www.mageants.com/multiple-wishlists-extension-for-magento-2.html">Magento 2 Multiple wishlist</a></li>
+<li> <a href="https://www.mageants.com/checkout-success-page-extension-for-magento-2.html">Magento 2 Checkout Success Page</a></li>
+<li> <a href="https://www.mageants.com/custom-order-number-extension-for-magento-2.html">Magento 2 Custom Order Number</a></li>
+<li> <a href="https://www.mageants.com/advanced-product-reviews-for-magento-2.html">Magento 2 Product Reviews</a></li>
