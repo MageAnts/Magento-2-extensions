@@ -20,3 +20,7 @@
 <li> <a href="https://www.mageants.com/checkout-success-page-extension-for-magento-2.html">Magento 2 Checkout Success Page</a></li>
 <li> <a href="https://www.mageants.com/custom-order-number-extension-for-magento-2.html">Magento 2 Custom Order Number</a></li>
 <li> <a href="https://www.mageants.com/advanced-product-reviews-for-magento-2.html">Magento 2 Product Reviews</a></li>
+<li> <a href="https://www.mageants.com/out-of-stock-notification-for-magento-2.html">Magento 2 Out of Stock Notification</a></li>
+<li> <a href="https://www.mageants.com/pre-order-extension-for-magento-2.html">Magento 2 Pre Order</a></li>
+<li> <a href="https://www.mageants.com/responsive-banner-slider-extension-for-magento-2.html">Magento 2 Banner Slider</a></li>
+<li> <a href="https://www.mageants.com/minimum-order-amount-for-customer-group-extension-for-magento-2.html">Magento 2 Minimum Order Amount for Customer Group</a></li>
