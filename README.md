@@ -1,4 +1,4 @@
-<h1>MageAnts Best <a href="https://www.mageants.com/magento-2-extensions.html">Magento-2-extensions</a></h1>
+<h1>MageAnts Best <a href="https://www.mageants.com/magento-2-extensions.html">Magento-2-Extensions</a></h1>
 <li> <a href="https://www.mageants.com/shipping-per-product-extension-for-magento-2.html">Magento 2 Shipping Per Product</a></li>
 <li> <a href="https://www.mageants.com/gift-card-extension-for-magento-2.html">Magento 2 Gift Card</a></li>
 <li> <a href="https://www.mageants.com/rma-extension-for-magento-2.html">Magento 2 RMA</a></li>
@@ -24,3 +24,13 @@
 <li> <a href="https://www.mageants.com/pre-order-extension-for-magento-2.html">Magento 2 Pre Order</a></li>
 <li> <a href="https://www.mageants.com/responsive-banner-slider-extension-for-magento-2.html">Magento 2 Banner Slider</a></li>
 <li> <a href="https://www.mageants.com/minimum-order-amount-for-customer-group-extension-for-magento-2.html">Magento 2 Minimum Order Amount for Customer Group</a></li>
+<li> <a href="https://www.mageants.com/improved-sorting-for-magento-2.html">Magento 2 Improved Sorting</a></li>
+<li> <a href="https://www.mageants.com/ajax-add-to-cart-for-magento-2.html">Magento 2 Ajax Add to Cart</a></li>
+<li> <a href="https://www.mageants.com/frequently-bought-together-for-magento-2.html">Magento 2 Frequently Bought Together</a></li>
+<li> <a href="https://www.mageants.com/shipping-table-rates-for-magento-2.html">Magento 2 Shipping Table Rates</a></li>
+<li> <a href="https://www.mageants.com/delete-account-for-magento-2.html">Magento 2 Delete Account</a></li>
+<li> <a href="https://www.mageants.com/product-images-by-customer-for-magento-2.html">Magento 2 Product Images by Customer</a></li>
+<li> <a href="https://www.mageants.com/recent-sales-notification-for-magento-2.html">Magento 2 Recent Sales Notification</a></li>
+<li> <a href="https://www.mageants.com/auto-cancel-order-for-magento-2.html">Magento 2 Auto Cancel Order</a></li>
+<li> <a href="https://www.mageants.com/duplicate-category-for-magento-2.html">Magento 2 Duplicate Category</a></li>
+<li> <a href="https://www.mageants.com/google-invisible-recaptcha-for-magento-2.html">Magento 2 Google Invisible Recaptcha</a></li>
